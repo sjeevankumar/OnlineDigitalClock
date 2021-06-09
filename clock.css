@@ -1,0 +1,24 @@
+body{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: sans-serif;
+}
+
+#clock{
+      height: 100vh;
+      width: 100%;
+      background-color: #14080e;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 100px;
+}
+
+.para{
+      color: white;
+      margin: 10px;
+}
+
+
